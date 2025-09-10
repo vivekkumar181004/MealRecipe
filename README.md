@@ -16,6 +16,9 @@ Features:-
 Settings / Personalization – Customize color theme, text size, site theme (light/dark), and animation speed for a tailored experience.
 📱 Responsive Design – Works smoothly on desktop and mobile.
 
+![Home Image](public/img/searchrecipeImg.png)
+
+
 🛠️ Tech Stack:-
 
 Frontend: React, React Router
