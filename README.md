@@ -16,7 +16,7 @@ Features:-
 Settings / Personalization – Customize color theme, text size, site theme (light/dark), and animation speed for a tailored experience.
 📱 Responsive Design – Works smoothly on desktop and mobile.
 
-![Home Image](public/img/searchrecipeImg.png)
+![Search_meal_Img_page](public/img/searchmealImg.png)
 
 
 🛠️ Tech Stack:-
