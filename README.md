@@ -21,7 +21,7 @@ Icons: FontAwesome / React Icons
 API: TheMealDB- https://www.themealdb.com/api/json/v1/1/filter.php?i={ingredient}
 
 📂 Project Structure:-
-
+```
 MealRecipe/
 │
 ├── src/
@@ -65,4 +65,6 @@ MealRecipe/
 ├── package.json
 ├── package-lock.json
 └── eslint.config.js
+
+```
 
