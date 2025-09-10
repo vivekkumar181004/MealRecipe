@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import Sidebar from './sidebar';
+import Sidebar from './Sidebar';
 import { faHome, faList, faCog, faBookmark } from "@fortawesome/free-solid-svg-icons";
 import { Link, useLocation } from 'react-router-dom';
 
