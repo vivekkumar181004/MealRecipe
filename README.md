@@ -2,9 +2,9 @@
 
 Foodora is a recipe discovery web application built with React.
 It helps users search meals by ingredients, view cooking instructions, and explore different cuisines using the TheMealDB API: https://www.themealdb.com/api.php
-```
-<img width="1890" height="856" alt="image" src="https://github.com/user-attachments/assets/e83e2790-a442-406d-8d85-55d859bfb3f8" />
-```
+
+![Home Image](public/img/homeImg.png)
+
 
 
 Features:-
